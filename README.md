@@ -17,7 +17,6 @@
 <div> 
   <a href = "mailto:contatolarissa.sa.as@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-albuquerque-379b40114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lalbuquerques/lalbuquerques/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+  ![Snake animation](https://github.com/lalbuquerques/lalbuquerques/blob/output/github-contribution-grid-snake.svg)
