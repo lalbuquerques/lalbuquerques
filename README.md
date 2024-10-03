@@ -43,7 +43,9 @@
 <div align="center">
   <br clear="both">
 
-  <img src="https://github.com/lalbuquerques/lalbuquerques/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![Snake animation](https://github.com/lalbuquerques/lalbuquerques/blob/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
 
