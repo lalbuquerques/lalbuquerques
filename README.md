@@ -10,7 +10,6 @@
 <p align="left">
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Python" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
-  <img align="center" alt="Lari-Flask" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png">
   <img align="center" alt="Lari-Django" height="40" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
   <img align="center" alt="Lari-Oracle" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png">
   <img align="center" alt="Lari-Js" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
