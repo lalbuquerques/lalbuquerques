@@ -14,14 +14,11 @@ jobs:
     # Faz o checkout do repositório
       - uses: actions/checkout@v3  # Atualização para a versão mais recente
 
-    # Gera o snake.gif e o snake.svg com um período de 365 dias
+    # Gera o snake.svg
       - uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: lalbuquerques
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          period: 365  # Força a geração da animação com base nos últimos 365 dias
+          github_user_name: lalbuquerques  # Nome do usuário GitHub
 
     # Verifica o status do git
       - run: git status
