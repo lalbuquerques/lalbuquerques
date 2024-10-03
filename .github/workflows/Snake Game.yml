@@ -1,45 +1,44 @@
-name: Snake Game
+name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    # Atualiza a cada 5 horas
-    - cron: "0 */5 * * *"
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
+    
+  
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-
-    # Faz o checkout do repositório
-      - uses: actions/checkout@v3  # Atualização para a versão mais recente
-
-    # Gera o snake.svg
-      - uses: Platane/snk@v2
-        id: snake-gif
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: lalbuquerques  # Nome do usuário GitHub
-
-    # Verifica o status do git
-      - run: git status
-
-    # Faz o push das mudanças
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Faz o push no branch output
-          force: true
-
-    # Publica os arquivos no GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v3  # Atualização para versão mais recente
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+          
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    # Verifica se o diretório dist foi criado corretamente
-      - name: List dist folder
-        run: ls dist
-
