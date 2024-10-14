@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/lari-albuquerque/"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=ee9ca7&width=435&lines=Oii!++Eu+sou+a+Larissa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
 
-<img src="https://media.discordapp.net/attachments/1290898251729342486/1291263470746079232/ab0be5ea-2b47-47d6-b810-d18f8edfc9fd.png?ex=66ff7651&is=66fe24d1&hm=af3d0878f7058bba9a6bfd6b01543eb274a97142c2951a6efd50778104c2e95d&=&format=webp&quality=lossless" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://media.discordapp.net/attachments/1290898251729342486/1295204830096134174/ab0be5ea-2b47-47d6-b810-d18f8edfc9fd.png?ex=670dccff&is=670c7b7f&hm=6520d51231465bdebb033c04df872418b77e6a23fcb96c210d2af1ebce7863e3&=&format=webp&quality=lossless" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   Sou uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e aprendendo mais sobre <strong>Python, POO, Flask, Django, SQL, HTML, CSS e Javascript</strong>.<br>
@@ -25,7 +25,7 @@
 
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1290898251729342486/1291266071118221362/Sem_nome_Emote_para_Twitch_1.png?ex=66ff78bd&is=66fe273d&hm=a335794b9a23f5561255eceaccb0c0936e14a316d9df70712c04a7e7d7e21d58&=&format=webp&quality=lossless" alt="avatar" min-width="80px" max-width="80px" width="80px">
+  <img src="https://media.discordapp.net/attachments/1290898251729342486/1291266071118221362/Sem_nome_Emote_para_Twitch_1.png?ex=670d507d&is=670bfefd&hm=b2189a4353e2fb0fb77340c835c669d4c0ac7de70950929b8bdbf77e7df02743&=&format=webp&quality=lossless" alt="avatar" min-width="80px" max-width="80px" width="80px">
   <a href="mailto:larissa.sa.as@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-ee9ca7?style=flat&labelColor=ee9ca7&logo=gmail&logoColor=white&link=mailto:larissa.sa.as@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/lari-albuquerque/" target="_blank" title="LinkedIn">
