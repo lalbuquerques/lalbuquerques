@@ -25,7 +25,7 @@
 
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1290898251729342486/1291266071118221362/Sem_nome_Emote_para_Twitch_1.png?ex=670d507d&is=670bfefd&hm=b2189a4353e2fb0fb77340c835c669d4c0ac7de70950929b8bdbf77e7df02743&=&format=webp&quality=lossless" alt="avatar" min-width="80px" max-width="80px" width="80px">
+  <img src="https://cdn.discordapp.com/attachments/1149754891808538705/1295823666113806437/Sem_nome_Emote_para_Twitch_1.png?ex=67100d55&is=670ebbd5&hm=4eb0369d261dc28ae7cb1b207d37da60e6db9352ea43dd99f2e0ae49818b691d&" alt="avatar" min-width="80px" max-width="80px" width="80px">
   <a href="mailto:larissa.sa.as@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-ee9ca7?style=flat&labelColor=ee9ca7&logo=gmail&logoColor=white&link=mailto:larissa.sa.as@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/lari-albuquerque/" target="_blank" title="LinkedIn">
