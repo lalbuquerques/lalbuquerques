@@ -1,10 +1,10 @@
-<h1><a href="https://www.linkedin.com/in/lari-albuquerque/"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=ee9ca7&width=435&lines=Oii!++Eu+sou+a+Larissa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
+<h1><a href="https://www.linkedin.com/in/lari-albuquerque/"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=ee9ca7&width=435&lines=Hi!++I'm++Larissa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
 
-<img src="https://media.discordapp.net/attachments/1350615116499914774/1350745193137180733/Adobe_Express_-_file_1.png?ex=67d7dafd&is=67d6897d&hm=8f4ffff143240737cf6f59b78e3ba6f98667e8411bdf78d70b9c9f7b4d7fe3f9&=&format=webp&quality=lossless" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1578-51f7-abb1-a5250c04f71b/raw?se=2025-04-22T05%3A27%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=c6d7ba4e-09ab-5ab5-8289-9af1ef2cafb1&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T03%3A12%3A57Z&ske=2025-04-23T03%3A12%3A57Z&sks=b&skv=2024-08-04&sig=41C6dqaIYIkXAAYm5SX1qlbX%2B6Fk0xdS26d3V6/jGBA%3D" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Sou uma estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e aprendendo mais sobre <strong>Java, Spring Boot, Angular, Python, POO, SQL, HTML, CSS e Javascript</strong>.<br>
-  Bem vindo(a) ao meu GitHub! ✨
+  I'm a Systems Analysis and Development student, passionate about technology and continuously expanding my skills in <strong>Java, Spring Boot, Angular, Python, POO, SQL, HTML, CSS and Javascript</strong>.<br>
+  Welcome to my GitHub! ✨
 </p>
 
 <p align="left">
@@ -22,12 +22,12 @@
 <br>
 
 <p align="left">
-  💌 Entre em contato comigo!
+  💌 Feel free to get in touch with me!
 </p>
 
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1350615116499914774/1350743061038370876/Adobe_Express_-_file.png?ex=67d7d901&is=67d68781&hm=82d07a86c1035f53856670446e7d09151f046795d7ace611e1099e0893f6df1e&=&format=webp&quality=lossless" alt="avatar" min-width="80px" max-width="80px" width="80px">
+  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ebe4-61f7-92b7-c5d4d8a98d52/raw?se=2025-04-22T04%3A38%3A10Z&sp=r&sv=2024-08-04&sr=b&scid=88001e9a-91a9-51d5-8225-8004d9d0b1ff&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T04%3A29%3A44Z&ske=2025-04-23T04%3A29%3A44Z&sks=b&skv=2024-08-04&sig=brnV8GRTm2mT96cmZfAKvboJCOvc0LsYu9dEVQWiuho%3D" alt="avatar" min-width="80px" max-width="80px" width="80px">
   <a href="mailto:larissa.sa.as@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-ee9ca7?style=flat&labelColor=ee9ca7&logo=gmail&logoColor=white&link=mailto:larissa.sa.as@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/lari-albuquerque/" target="_blank" title="LinkedIn">
