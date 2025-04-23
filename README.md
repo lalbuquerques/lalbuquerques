@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/lari-albuquerque/"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=ee9ca7&width=435&lines=Hi!++I'm++Larissa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
 
-<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1578-51f7-abb1-a5250c04f71b/raw?se=2025-04-22T05%3A27%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=c6d7ba4e-09ab-5ab5-8289-9af1ef2cafb1&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T03%3A12%3A57Z&ske=2025-04-23T03%3A12%3A57Z&sks=b&skv=2024-08-04&sig=41C6dqaIYIkXAAYm5SX1qlbX%2B6Fk0xdS26d3V6/jGBA%3D" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1578-51f7-abb1-a5250c04f71b/raw?se=2025-04-23T22%3A22%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=c23dab19-d76c-54d4-a267-2b9c759283e5&skoid=acefdf70-07fd-4bd5-a167-a4a9b137d163&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-23T04%3A32%3A08Z&ske=2025-04-24T04%3A32%3A08Z&sks=b&skv=2024-08-04&sig=J66x6ShhiHqajzVCb59XcYdgS97b%2BM7rnLLDEZDRgtA%3D" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   I'm a Systems Analysis and Development student, passionate about technology and continuously expanding my skills in <strong>Java, Spring Boot, Angular, Python, POO, SQL, HTML, CSS and Javascript</strong>.<br>
