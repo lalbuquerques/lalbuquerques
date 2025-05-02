@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/lari-albuquerque/"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2500&pause=1000&color=ee9ca7&width=435&lines=Hi!++I'm++Larissa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a></h1>
 
-<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1578-51f7-abb1-a5250c04f71b/raw?se=2025-04-23T22%3A22%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=c23dab19-d76c-54d4-a267-2b9c759283e5&skoid=acefdf70-07fd-4bd5-a167-a4a9b137d163&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-23T04%3A32%3A08Z&ske=2025-04-24T04%3A32%3A08Z&sks=b&skv=2024-08-04&sig=J66x6ShhiHqajzVCb59XcYdgS97b%2BM7rnLLDEZDRgtA%3D" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/lalbuquerques/lalbuquerques/blob/main/pictures/no%20pc.png?raw=true" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   I'm a Systems Analysis and Development student, passionate about technology and continuously expanding my skills in <strong>Java, Spring Boot, Angular, Python, POO, SQL, HTML, CSS and Javascript</strong>.<br>
@@ -27,7 +27,7 @@
 
 
 <p align="left">
-  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-ebe4-61f7-92b7-c5d4d8a98d52/raw?se=2025-04-22T04%3A38%3A10Z&sp=r&sv=2024-08-04&sr=b&scid=88001e9a-91a9-51d5-8225-8004d9d0b1ff&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-22T04%3A29%3A44Z&ske=2025-04-23T04%3A29%3A44Z&sks=b&skv=2024-08-04&sig=brnV8GRTm2mT96cmZfAKvboJCOvc0LsYu9dEVQWiuho%3D" alt="avatar" min-width="80px" max-width="80px" width="80px">
+  <img src="https://github.com/lalbuquerques/lalbuquerques/blob/main/pictures/contato.png?raw=true" alt="avatar" min-width="80px" max-width="80px" width="80px">
   <a href="mailto:larissa.sa.as@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-ee9ca7?style=flat&labelColor=ee9ca7&logo=gmail&logoColor=white&link=mailto:larissa.sa.as@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/lari-albuquerque/" target="_blank" title="LinkedIn">
